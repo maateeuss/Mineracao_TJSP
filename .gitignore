@@ -1,0 +1,7 @@
+browser_profile/
+chrome_profile/
+downloaded_files/
+pdfs/
+webdrivers/
+venv/
+example/datajud_response_sample.json
